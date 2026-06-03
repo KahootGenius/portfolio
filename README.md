@@ -1,33 +1,41 @@
-# Portfolio
+<div align="center">
 
-> A home for the things I build — and, more importantly, *why* they matter and *who* they help.
+<img src="./assets/banner.svg" alt="Lawrence — We remove friction everywhere. I build for the friction worth keeping." width="860" />
 
-Hi, I'm Lawrence. This repository collects my projects, the problems behind them, and
-what I learned building them. I care less about code for its own sake and more about
-whether the thing I made had a real effect on real people.
+<br/>
 
-<!-- TODO: Replace this paragraph with your story in 3–4 sentences:
-     - What drives you / what problems you care about
-     - A theme that connects your work (community, education, music, accessibility...)
-     - Where you want to go next
-     An admissions officer who isn't a programmer should finish this and *get* you. -->
+*I build technology that defends the struggle where meaning is earned.*
+
+<br/>
+
+[ **About** ](#about) · [ Projects ](./projects) · [ Log ](./LOG.md)
+
+</div>
+
+---
+
+## About
+
+<!-- TODO: 3–4 sentences, in your own voice. The most important paragraph here.
+     - What you care about and why (the problem behind the work)
+     - The thread that connects your projects — defending productive difficulty:
+       fair play, earned understanding, the friction worth keeping
+     - Where you want to take it next
+     Write it so someone who has never read code finishes it and understands you. -->
+
+_Coming soon — in my own words._
 
 ## Projects
 
-Each project lives in [`projects/`](./projects) with its own impact-first README:
+Each project lives in [`projects/`](./projects) with an impact-first README:
 *the problem, who it affects, what I built, the result, and what I learned.*
 
 | Project | Problem it tackles | Impact |
 |---------|--------------------|--------|
 | _coming soon_ | | |
 
-## How this repo works
-
-- **[`LOG.md`](./LOG.md)** — a dated journal of what I work on and the reasoning behind it.
-- **[`projects/`](./projects)** — one folder per project, each readable by a non-engineer.
-- **Issues** — each task is tracked as an issue, with progress in the comments.
-
 ---
 
-<sub>Built and tracked with care. Each commit and pull request here is part of the record
-of how I work and how I grow.</sub>
+<div align="center">
+<sub>Every commit and pull request here is part of the record of how I work — and how I grow.</sub>
+</div>
